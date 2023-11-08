@@ -25,3 +25,5 @@ if bot == 1:
     print("Heads")
 else:
     print("Tails")
+    
+    
