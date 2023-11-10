@@ -37,3 +37,11 @@ if game[r] == rps_mod.scissors:
             print("You Lose")
     if game[user] == rps_mod.rock:
             print("You win")
+
+########################    To-Do   ########################
+#
+#   TO-DO:  Validation Check: Must be between 0 - 2
+#   TO-DO:  Welcome Title
+#   TO-DO:  "Try Again" feature
+#
+############################################################
