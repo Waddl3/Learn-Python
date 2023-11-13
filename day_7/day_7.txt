@@ -1,0 +1,2 @@
+Day_7 was focused on creating the hangman game from scratch.
+Look under the Projects folder to see.
